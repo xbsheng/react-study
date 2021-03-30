@@ -1,0 +1,15 @@
+.link {
+  color: #666;
+  font-weight: bold;
+  font-size: 20px;
+  height: 40px;
+  line-height: 40px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  text-decoration: none;
+}
+.link.current {
+  background-color: skyblue;
+  color: #fff;
+}
